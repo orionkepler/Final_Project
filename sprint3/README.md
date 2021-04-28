@@ -9,7 +9,7 @@
 ### https://oss-augur.readthedocs.io/en/dev/getting-started/toc.html
 
 ## Current Progress
-### For now, I rewrite the install scripts, make it more easier to understand when people to install Augur, make each option more clear than before.
+### For now, I rewrite the install scripts, make it more easier to understand when people to install Augur, make each option more clear than before. There are some of those changes in the Demo_Pic. And you can find more information about the changes in Progress_report.md.
 
 ### The files that I modify are in "scripts/install", the file name are list as below:
 
