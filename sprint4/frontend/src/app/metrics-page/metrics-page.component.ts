@@ -54,7 +54,7 @@ export class MetricsPageComponent implements OnInit {
   ngOnInit(): void {
     const repo_id = this.route.snapshot.paramMap.get("repo_id");
     if (!repo_id) {
-      this.errorMessage = "Please enter a repo ID.";
+      this.errorMessage = "Unable to connect.";
       return;
     }
 
