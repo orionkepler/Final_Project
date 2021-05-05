@@ -29,3 +29,5 @@
 ### install.sh
 
 ### The new frontend that powered by Angular is in folder frontend
+
+### Video demo shared link: https://youtu.be/5OyH_1bH-70
