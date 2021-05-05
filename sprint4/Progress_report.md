@@ -5,6 +5,8 @@
 
 ## The re-design frontend is in sprint4 
 
+## There is a report that contains more information about the progess, you can find out in Progress_Report.docx.
+
 ## Progress
 ### •    Installation script rewrite
 ###     •    Make the input more detailed
