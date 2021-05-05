@@ -27,3 +27,6 @@
 ### The tool that re-design the front-end of the Augur is angular-cli
 ### you can find more information in folder frontend.
 
+## Future work
+
+### I will try my best to connect to the data, and try to collect the data. And I will also try to implement the History function for my frontend.
